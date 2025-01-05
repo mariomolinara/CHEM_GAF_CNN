@@ -1,5 +1,5 @@
 AI-Driven Electrochemical Image Generation and Classification<br>
-This repository contains two parts of the software used in the research paper "Artificial Intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses". The software pipeline is split into two main components:
+This repository contains two parts of the software used in the research paper "Artificial Intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses". The software pipeline is split into two main components:<br>
 <br>
 Java Module: Responsible for generating images from voltammetric data.<br>
 Python Module: This module is used to classify the generated images and identify pollutants.<br>
